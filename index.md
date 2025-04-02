@@ -45,3 +45,22 @@
 </body>
 </html>
 ```
+
+# Commandes de base en HTML
+
+## 1. Structure de base
+
+```html
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Mon site web</title>
+</head>
+<body>
+    <h1>Bienvenue</h1>
+    <p>Ceci est un paragraphe.</p>
+</body>
+</html>
+```
