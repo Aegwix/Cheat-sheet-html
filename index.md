@@ -76,10 +76,32 @@
     <img src="image.jpg" alt="Description de l'image">
 ```
 
-# 4. Listes
+## 4. Listes
+##### Liste non ordonnée
  ```html
    <ul>
     <li>Élément 1</li>
     <li>Élément 2</li>
    </ul>
+```
+##### Liste ordonnée
+ ```html
+   <ol>
+    <li>Premier élément</li>
+    <li>Deuxième élément</li>
+   </ol>
+```
+
+## 5. Tableaux
+```html
+<table>
+    <tr>
+        <th>Nom</th>
+        <th>Âge</th>
+    </tr>
+    <tr>
+        <td>Alex</td>
+        <td>26</td>
+    </tr>
+</table>
 ```
