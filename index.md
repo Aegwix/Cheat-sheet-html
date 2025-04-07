@@ -100,8 +100,17 @@
         <th>Âge</th>
     </tr>
     <tr>
-        <td>Alex</td>
-        <td>26</td>
+        <td>Nom</td>
+        <td>age</td>
     </tr>
 </table>
+```
+
+## 6. Formulaires
+```html
+<form action="/envoyer" method="post">
+    <label for="nom">Nom :</label>
+    <input type="text" id="nom" name="nom">
+    <button type="submit">Envoyer</button>
+</form>
 ```
