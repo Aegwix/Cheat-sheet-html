@@ -61,6 +61,25 @@
 <body>
     <h1>Bienvenue</h1>
     <p>Ceci est un paragraphe.</p>
-</body>
-</html>
+```
+
+## 2. Titres et textes
+ ```html
+    <h1>Titre principal</h1>
+    <h2>Sous-titre</h2>
+    <p>Paragraphe avec du <strong>texte en gras</strong> et du <em>texte en italique</em>.</p>
+```
+
+## 3. Liens et images
+```html
+    <a href="https://www.exemple.com">Clique ici</a>
+    <img src="image.jpg" alt="Description de l'image">
+```
+
+# 4. Listes
+ ```html
+   <ul>
+    <li>Élément 1</li>
+    <li>Élément 2</li>
+   </ul>
 ```
